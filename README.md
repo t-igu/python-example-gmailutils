@@ -30,6 +30,8 @@ for message in messages:
     print(message)
 ```
 
+queryについては[Gmail で使用できる検索演算子](https://support.google.com/mail/answer/7190?hl=ja)を参照。
+
 ### Example for send gmail message.
 
 ```python:example.py
